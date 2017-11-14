@@ -1,0 +1,1762 @@
+{
+  "IsDirthy": true,
+  "Session": {
+    "SessionId": "13762d39-d56b-404d-af33-8c90175f0a28",
+    "SessionType": 0,
+    "CredentialType": 1,
+    "Devices": [
+      {
+        "Id": "13762d39-d56b-404d-af33-8c90175f0a28",
+        "Timestamp": "2017-08-30T11:08:32.0156481Z",
+        "DeviceIdentifier": null,
+        "DeviceFingerprints": [
+          {
+            "Id": "588d7c77-e62a-4af4-bea5-1204f69cd9a1",
+            "OccurrenceCount": 1,
+            "Timestamp": "2017-08-30T11:08:32.0156481Z",
+            "Attributes": [
+              {
+                "Id": "f30df849-e882-4ceb-ab39-ccdc5367db88",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "c5d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorBuildID",
+                  "FullPropertyPath": "navigator.buildID",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 72,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorBuildID"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "a15a5589-0f98-462b-b687-13d969fa0448",
+                "Value": "Win32",
+                "Type": {
+                  "Id": "c6d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorPlatform",
+                  "FullPropertyPath": "navigator.platform",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 73,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorPlatform"
+                },
+                "Hash": "A99913111481B4F0BCB70E08E3E99405"
+              },
+              {
+                "Id": "337e4774-f550-4e4d-b6a4-e523a45e319d",
+                "Value": "Mozilla",
+                "Type": {
+                  "Id": "c7d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorAppCodeName",
+                  "FullPropertyPath": "navigator.appCodeName",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 55,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorAppCodeName"
+                },
+                "Hash": "502F1BD97B0E7D80B88E1F45AE1BFDB8"
+              },
+              {
+                "Id": "de218f94-8d5f-4e60-9695-8f5efaaa27c6",
+                "Value": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+                "Type": {
+                  "Id": "c8d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorAppVersion",
+                  "FullPropertyPath": "navigator.appVersion",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 71,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorAppVersion"
+                },
+                "Hash": "BCD6A3E1B9DC4970C7EDAB9BC86623F7"
+              },
+              {
+                "Id": "976ddb27-2794-43ce-862f-b14e591e319a",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "c9d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorAppMinorVersion",
+                  "FullPropertyPath": "navigator.appMinorVersion",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 70,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorAppMinorVersion"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "e49eb998-1bfa-4918-adb6-badab6aeff60",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "cbd1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorCpuClass",
+                  "FullPropertyPath": "navigator.cpuClass",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 7,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorCpuClass"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "a9f885a1-da20-4557-82d8-5382f585c2d6",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "ccd1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorOscpu",
+                  "FullPropertyPath": "navigator.oscpu",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 36,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorOscpu"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "ca2213c7-ad4f-43f2-9301-3fe1fad6b12b",
+                "Value": "Gecko",
+                "Type": {
+                  "Id": "cdd1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorProduct",
+                  "FullPropertyPath": "navigator.product",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 61,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorProduct"
+                },
+                "Hash": "D21FD702CA38E5B427EB3296236492C3"
+              },
+              {
+                "Id": "78ca3b89-1a54-4c70-9c5e-08d1d642e2d1",
+                "Value": "20030107",
+                "Type": {
+                  "Id": "ced1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorProductSub",
+                  "FullPropertyPath": "navigator.productSub",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 75,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorProductSub"
+                },
+                "Hash": "3A8B04DB874DE335193ADDCE89D42EA3"
+              },
+              {
+                "Id": "a4922a57-ba18-4758-9be4-cdb2bdab076e",
+                "Value": "Google Inc.",
+                "Type": {
+                  "Id": "cfd1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorVendor",
+                  "FullPropertyPath": "navigator.vendor",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 62,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorVendor"
+                },
+                "Hash": "B5B58D51EBC2B4DE38E11CE462509EC3"
+              },
+              {
+                "Id": "1ec07378-f40d-4911-bced-1ae613e845e6",
+                "Value": "",
+                "Type": {
+                  "Id": "d0d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorVendorSub",
+                  "FullPropertyPath": "navigator.vendorSub",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 63,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorVendorSub"
+                },
+                "Hash": "D41D8CD98F00B204E9800998ECF8427E"
+              },
+              {
+                "Id": "839573e4-1d35-4a58-96ef-573433b016d1",
+                "Value": "en-US",
+                "Type": {
+                  "Id": "d1d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorLanguage",
+                  "FullPropertyPath": "navigator.language",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 35,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorLanguage"
+                },
+                "Hash": "CCE16C45E622D9CEAE4B626C9353ECEC"
+              },
+              {
+                "Id": "7f642978-24ff-453a-8a40-1c400b013c84",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "d2d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorUserLanguage",
+                  "FullPropertyPath": "navigator.userLanguage",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 38,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorUserLanguage"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "47ab3314-b1b0-44da-ad02-814b710aa07f",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "d3d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorBrowserLanguage",
+                  "FullPropertyPath": "navigator.browserLanguage",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 34,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorBrowserLanguage"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "b3142a59-5885-4fb3-88c2-7aa3dc70e0aa",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "d4d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorSystemLanguage",
+                  "FullPropertyPath": "navigator.systemLanguage",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 37,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorSystemLanguage"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "508b1d91-1a76-4ac7-a9df-ed1527859fc8",
+                "Value": "1",
+                "Type": {
+                  "Id": "d5d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorDoNotTrack",
+                  "FullPropertyPath": "navigator.doNotTrack",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 58,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorDoNotTrack"
+                },
+                "Hash": "C4CA4238A0B923820DCC509A6F75849B"
+              },
+              {
+                "Id": "7a265133-3e01-4bc2-bca2-f0001a932ba4",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "d6d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorMsDoNotTrack",
+                  "FullPropertyPath": "navigator.msDoNotTrack",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 60,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorMsDoNotTrack"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "3dbcdd6d-1b8a-4c58-b630-d9321f13aa76",
+                "Value": "false",
+                "Type": {
+                  "Id": "d7d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorJavaEnabled",
+                  "FullPropertyPath": "navigator.javaEnabled()",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 59,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorJavaEnabled"
+                },
+                "Hash": "68934A3E9455FA72420237EB05902327"
+              },
+              {
+                "Id": "98efe590-3771-4238-a62a-972a86190222",
+                "Value": "true",
+                "Type": {
+                  "Id": "d8d1c702-f8bb-e311-be87-089e010f73f9",
+                  "Name": "NavigatorCookieEnabled",
+                  "FullPropertyPath": "navigator.cookieEnabled",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 57,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorCookieEnabled"
+                },
+                "Hash": "B326B5062B2F0E69046810717534CB09"
+              },
+              {
+                "Id": "6cc93b68-0bd7-4a76-8f19-7ce5b370ceec",
+                "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+                "Type": {
+                  "Id": "d8406055-0ab1-e311-beb3-089e010f7621",
+                  "Name": "NavigatorUserAgent",
+                  "FullPropertyPath": "navigator.userAgent",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 76,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorUserAgent"
+                },
+                "Hash": "F9694186C5800B9905943D3F44EDE836"
+              },
+              {
+                "Id": "0a22a314-e75b-48b2-9a12-1d0d4b5395d9",
+                "Value": "Netscape",
+                "Type": {
+                  "Id": "b886f45f-0ab1-e311-beb3-089e010f7621",
+                  "Name": "NavigatorAppName",
+                  "FullPropertyPath": "navigator.appName",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 56,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorAppName"
+                },
+                "Hash": "87374A5FF147C456329FF21CCAA0C205"
+              },
+              {
+                "Id": "23757875-53c0-4c78-b340-19a27a841014",
+                "Value": "[{\"name\":\"Widevine Content Decryption Module\",\"description\":\"Enables Widevine licenses for playback of HTML audio/video content. (version: 1.4.8.1000)\",\"filename\":\"widevinecdmadapter.dll\",\"length\":1},{\"name\":\"Shockwave Flash\",\"description\":\"Shockwave Flash 26.0 r0\",\"filename\":\"pepflashplayer.dll\",\"length\":2},{\"name\":\"Chrome PDF Viewer\",\"description\":\"\",\"filename\":\"mhjfbmdgcfjbbpaeojofohoefgiehjai\",\"length\":1},{\"name\":\"Native Client\",\"description\":\"\",\"filename\":\"internal-nacl-plugin\",\"length\":2},{\"name\":\"Chrome PDF Viewer\",\"description\":\"Portable Document Format\",\"filename\":\"internal-pdf-viewer\",\"length\":1}]",
+                "Type": {
+                  "Id": "c5f0baba-92b6-e311-beb6-089e010f7621",
+                  "Name": "NavigatorPlugins",
+                  "FullPropertyPath": "navigator.plugins",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.NavigatorPluginsAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 74,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "802025b9-08b1-e311-beb3-089e010f7621",
+                    "Name": "JavascriptData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JavascriptData"
+                  },
+                  "FullName": "JavascriptData.NavigatorPlugins"
+                },
+                "Hash": "A5E54C0D1D05C0FDA7AED0AA050CA7FB"
+              },
+              {
+                "Id": "0979c6b6-579a-47bf-aa23-9bf2d141e883",
+                "Value": "1920",
+                "Type": {
+                  "Id": "0e96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenWidth",
+                  "FullPropertyPath": "screen.width",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 66,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenWidth"
+                },
+                "Hash": "44968AECE94F667E4095002D140B5896"
+              },
+              {
+                "Id": "b8e04da5-6097-4449-a874-65841fbf0886",
+                "Value": "1080",
+                "Type": {
+                  "Id": "0f96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenHeight",
+                  "FullPropertyPath": "screen.height",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 42,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenHeight"
+                },
+                "Hash": "731C83DB8D2FF01BDC000083FD3C3740"
+              },
+              {
+                "Id": "b656ca6a-8dda-4397-b087-86df856335a2",
+                "Value": "1920",
+                "Type": {
+                  "Id": "1096e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenAvailWidth",
+                  "FullPropertyPath": "screen.availWidth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 65,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenAvailWidth"
+                },
+                "Hash": "44968AECE94F667E4095002D140B5896"
+              },
+              {
+                "Id": "efce3590-547b-4555-bc0d-fb77d7c5395e",
+                "Value": "1040",
+                "Type": {
+                  "Id": "1196e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenAvailHeight",
+                  "FullPropertyPath": "screen.availHeight",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 64,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenAvailHeight"
+                },
+                "Hash": "537D9B6C927223C796CAC288CCED29DF"
+              },
+              {
+                "Id": "42c58608-1ad0-4696-a4f7-b57cc71817a2",
+                "Value": "24",
+                "Type": {
+                  "Id": "1296e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenColorDepth",
+                  "FullPropertyPath": "screen.colorDepth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 40,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenColorDepth"
+                },
+                "Hash": "1FF1DE774005F8DA13F42943881C655F"
+              },
+              {
+                "Id": "3890162d-b059-4c3c-8c38-6077379f372b",
+                "Value": "24",
+                "Type": {
+                  "Id": "1396e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenPixelDepth",
+                  "FullPropertyPath": "screen.pixelDepth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 45,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenPixelDepth"
+                },
+                "Hash": "1FF1DE774005F8DA13F42943881C655F"
+              },
+              {
+                "Id": "c6826dd1-f10b-4803-afff-5c4f6c7913ba",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1496e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenFontSmoothingEnabled",
+                  "FullPropertyPath": "screen.fontSmoothingEnabled",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 41,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenFontSmoothingEnabled"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "c54f6f52-a63d-409a-926e-fe5016a408ae",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1596e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenBufferDepth",
+                  "FullPropertyPath": "screen.bufferDepth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 39,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenBufferDepth"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "dea6d474-b733-42fe-9132-ad3ebcbe1c6d",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1696e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenDeviceXDPI",
+                  "FullPropertyPath": "screen.deviceXDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 8,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenDeviceXDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "6a5fbbfb-346a-4c72-b645-04535eeeafcf",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1796e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenDeviceYDPI",
+                  "FullPropertyPath": "screen.deviceYDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 9,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenDeviceYDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "75496d80-de63-49ab-a114-bbf22c036aec",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1996e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenLogicalXDPI",
+                  "FullPropertyPath": "screen.logicalXDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 43,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenLogicalXDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "6c447a27-d97c-404f-822e-06eaf4d71fa0",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1a96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenLogicalYDPI",
+                  "FullPropertyPath": "screen.logicalYDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 44,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenLogicalYDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "b6a1f76f-c1e9-479f-b93d-cf847400918c",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1b96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenSystemXDPI",
+                  "FullPropertyPath": "screen.systemXDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 46,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenSystemXDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "9b29a284-72f0-42d1-8483-700564a1ce01",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1c96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenSystemYDPI",
+                  "FullPropertyPath": "screen.systemYDPI",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 47,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenSystemYDPI"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "d12f9e3c-d990-41b7-8846-a8fed3be891c",
+                "Value": "undefined",
+                "Type": {
+                  "Id": "1d96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "ScreenUpdateInterval",
+                  "FullPropertyPath": "screen.updateInterval",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 48,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.ScreenUpdateInterval"
+                },
+                "Hash": "5E543256C480AC577D30F76F9120EB74"
+              },
+              {
+                "Id": "aee5242e-8e84-445d-9339-716fe243981d",
+                "Value": "1",
+                "Type": {
+                  "Id": "1e96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowDevicePixelRatio",
+                  "FullPropertyPath": "window.devicePixelRatio",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 49,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowDevicePixelRatio"
+                },
+                "Hash": "C4CA4238A0B923820DCC509A6F75849B"
+              },
+              {
+                "Id": "dc43cd5c-b9e7-4f95-967c-9f803b6097bc",
+                "Value": "1920",
+                "Type": {
+                  "Id": "1f96e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowOuterWidth",
+                  "FullPropertyPath": "window.outerWidth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 80,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowOuterWidth"
+                },
+                "Hash": "44968AECE94F667E4095002D140B5896"
+              },
+              {
+                "Id": "1eac3f51-6049-406e-b404-2bc6421f6576",
+                "Value": "1040",
+                "Type": {
+                  "Id": "2096e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowOuterHeight",
+                  "FullPropertyPath": "window.outerHeight",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 79,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowOuterHeight"
+                },
+                "Hash": "537D9B6C927223C796CAC288CCED29DF"
+              },
+              {
+                "Id": "b9228270-c1be-4be8-9084-f72aa5f1fff4",
+                "Value": "1920",
+                "Type": {
+                  "Id": "2196e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowInnerWidth",
+                  "FullPropertyPath": "window.innerWidth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 78,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowInnerWidth"
+                },
+                "Hash": "44968AECE94F667E4095002D140B5896"
+              },
+              {
+                "Id": "1ccb11fa-5209-4261-bfb3-4ac39f9b5d93",
+                "Value": "950",
+                "Type": {
+                  "Id": "2296e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowInnerHeight",
+                  "FullPropertyPath": "window.innerHeight",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 77,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowInnerHeight"
+                },
+                "Hash": "A3D68B461BD9D3533EE1DD3CE4628ED4"
+              },
+              {
+                "Id": "dfbf7727-47d2-4dfa-8ba2-443cbe12c524",
+                "Value": "0",
+                "Type": {
+                  "Id": "2396e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowScreenX",
+                  "FullPropertyPath": "window.screenX",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 83,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowScreenX"
+                },
+                "Hash": "CFCD208495D565EF66E7DFF9F98764DA"
+              },
+              {
+                "Id": "0dd86d91-04a8-4c0d-951e-b12712ee1a6a",
+                "Value": "0",
+                "Type": {
+                  "Id": "2496e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowScreenY",
+                  "FullPropertyPath": "window.screenY",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 84,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowScreenY"
+                },
+                "Hash": "CFCD208495D565EF66E7DFF9F98764DA"
+              },
+              {
+                "Id": "95ddd8df-373e-4ef4-b69b-e1ac44a0c24b",
+                "Value": "0",
+                "Type": {
+                  "Id": "2596e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowScreenTop",
+                  "FullPropertyPath": "window.screenTop",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 82,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowScreenTop"
+                },
+                "Hash": "CFCD208495D565EF66E7DFF9F98764DA"
+              },
+              {
+                "Id": "5a2097dc-2260-4e98-8077-48feb793aa2d",
+                "Value": "0",
+                "Type": {
+                  "Id": "2696e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "WindowScreenLeft",
+                  "FullPropertyPath": "window.screenLeft",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 81,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.WindowScreenLeft"
+                },
+                "Hash": "CFCD208495D565EF66E7DFF9F98764DA"
+              },
+              {
+                "Id": "ae261d52-249a-4da8-a06e-6889dbf9840c",
+                "Value": "1903",
+                "Type": {
+                  "Id": "2796e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "DocumentDocumentElementClientWidth",
+                  "FullPropertyPath": "document.documentElement.clientWidth",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 53,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.DocumentDocumentElementClientWidth"
+                },
+                "Hash": "944626ADF9E3B76A3919B50DC0B080A4"
+              },
+              {
+                "Id": "d84dfee4-0c68-402a-9dc6-fb064636d3eb",
+                "Value": "950",
+                "Type": {
+                  "Id": "2896e122-00bc-e311-be87-089e010f73f9",
+                  "Name": "DocumentDocumentElementClientHeight",
+                  "FullPropertyPath": "document.documentElement.clientHeight",
+                  "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.AttributeType.SimpleAssignToAttributeTypeCodeGenerator",
+                  "CacheCode": true,
+                  "ChangeValueFrequencyIndex": 52,
+                  "IncludeInFingerprint": true,
+                  "Category": {
+                    "Id": "f9139fdf-08b1-e311-beb3-089e010f7621",
+                    "Name": "JSDisplayData",
+                    "CacheCode": true,
+                    "Parent": null,
+                    "Subcategories": [],
+                    "CodeGenerator": "Trustev.DomainServices.DF.CodeGenerators.Category.DefaultAttributTypeCategoryCodeGenerator",
+                    "FullName": "JSDisplayData"
+                  },
+                  "FullName": "JSDisplayData.DocumentDocumentElementClientHeight"
+                },
+                "Hash": "A3D68B461BD9D3533EE1DD3CE4628ED4"
+              }
+            ],
+            "DeviceTag": "20f8c5b7-f6ae-4dfc-a748-c9350d499de9"
+          }
+        ],
+        "Evercookies": [
+          {
+            "Id": "20f8c5b7-f6ae-4dfc-a748-c9350d499de9",
+            "Regenerated": true,
+            "Source": "localstorage",
+            "Timestamp": "2017-08-30T11:08:35.8383153Z"
+          }
+        ],
+        "IsIpAggregated": false
+      }
+    ],
+    "Details": [
+      {
+        "Id": "1cc08056-076f-49b9-bc3b-a31300dbab39",
+        "AuthenticationIdentityId": "00000000-0000-0000-0000-000000000000",
+        "Timestamp": "2017-08-30T11:08:32.0156481Z",
+        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+        "UserHostAddress": "92.60.203.205",
+        "AbsolutePath": "/",
+        "Authority": "app-qa.trustev.com",
+        "DnsSafeHost": "app-qa.trustev.com",
+        "Host": "app-qa.trustev.com",
+        "HostNameType": "Dns",
+        "Scheme": "https",
+        "Status": 0,
+        "IPAddresses": [
+          {
+            "Id": "b6fb1a4a-16d1-48c0-a104-70994ac4e899",
+            "ClientIp": "92.60.203.205",
+            "ClientIpXFF": "",
+            "RealClientIp": "92.60.203.205",
+            "IPInformation": null,
+            "NeuStarIPInformation": {
+              "Id": "05ea3423-b937-42d2-8f8d-208e33906fa5",
+              "start_ip_int": "1547488016",
+              "end_ip_int": "1547488207",
+              "StartIPInt": 1547488016,
+              "EndIPInt": 1547488207,
+              "Continent": "europe",
+              "Country": "ireland",
+              "CountryCode": "ie",
+              "CountryConfidence": 99,
+              "Region": "munster",
+              "State": "cork",
+              "StateCode": "",
+              "StateConfidence": 74,
+              "City": "bandon",
+              "CityConfidence": 50,
+              "PostalCode": "",
+              "AreaCode": "",
+              "Timezone": 0,
+              "Latitude": 51.75,
+              "Longitude": -8.74,
+              "DMA": "",
+              "MSA": "",
+              "ConnectionType": "tx",
+              "LineSpeed": "high",
+              "RoutingType": "fixed",
+              "ASN": 42090,
+              "SLD": "glenmarshellfish",
+              "TLD": "com",
+              "RegisteringOrg": "ptp links  cust & backhaul",
+              "Carrier": "rapid broadband ltd",
+              "HostingFacility": "false",
+              "ProxyLevel": "",
+              "ProxyType": "",
+              "ProxyLastDetected": "0001-01-01T00:00:00Z",
+              "AnonymizerStatus": ""
+            },
+            "IsNonDomestic": false
+          }
+        ],
+        "Browser": {
+          "Id": "05bb9cf5-ce32-425e-a77f-fa06fc2e470e",
+          "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+          "Family": "Chrome",
+          "Major": 60,
+          "Minor": 0,
+          "Patch": 0
+        },
+        "OS": {
+          "Id": "1bfbaca6-7550-4cd8-a22a-77ed683a10c6",
+          "Value": "Unknown",
+          "Family": "Unknown",
+          "Major": 0,
+          "Minor": 0,
+          "Patch": 0,
+          "PatchMinor": 0
+        }
+      },
+      {
+        "Id": "3ed78587-ad87-47bd-9221-b1f386da2d5b",
+        "AuthenticationIdentityId": "00000000-0000-0000-0000-000000000000",
+        "Timestamp": "2017-08-30T11:27:57.9703803Z",
+        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+        "UserHostAddress": "92.60.203.205",
+        "AbsolutePath": "/",
+        "Authority": "console-qa.trustev.com",
+        "DnsSafeHost": "console-qa.trustev.com",
+        "Host": "console-qa.trustev.com",
+        "HostNameType": "Dns",
+        "Scheme": "https",
+        "Status": 0,
+        "IPAddresses": [
+          {
+            "Id": "26701fc4-bcf2-4ca2-a69a-b9b2b0e31282",
+            "ClientIp": "92.60.203.205",
+            "ClientIpXFF": "",
+            "RealClientIp": "92.60.203.205",
+            "IPInformation": null,
+            "NeuStarIPInformation": {
+              "Id": "05ea3423-b937-42d2-8f8d-208e33906fa5",
+              "start_ip_int": "1547488016",
+              "end_ip_int": "1547488207",
+              "StartIPInt": 1547488016,
+              "EndIPInt": 1547488207,
+              "Continent": "europe",
+              "Country": "ireland",
+              "CountryCode": "ie",
+              "CountryConfidence": 99,
+              "Region": "munster",
+              "State": "cork",
+              "StateCode": "",
+              "StateConfidence": 74,
+              "City": "bandon",
+              "CityConfidence": 50,
+              "PostalCode": "",
+              "AreaCode": "",
+              "Timezone": 0,
+              "Latitude": 51.75,
+              "Longitude": -8.74,
+              "DMA": "",
+              "MSA": "",
+              "ConnectionType": "tx",
+              "LineSpeed": "high",
+              "RoutingType": "fixed",
+              "ASN": 42090,
+              "SLD": "glenmarshellfish",
+              "TLD": "com",
+              "RegisteringOrg": "ptp links  cust & backhaul",
+              "Carrier": "rapid broadband ltd",
+              "HostingFacility": "false",
+              "ProxyLevel": "",
+              "ProxyType": "",
+              "ProxyLastDetected": "0001-01-01T00:00:00Z",
+              "AnonymizerStatus": ""
+            },
+            "IsNonDomestic": false
+          }
+        ],
+        "Browser": {
+          "Id": "c4c3b5cd-f007-4399-b2a3-812082221e3c",
+          "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+          "Family": "Chrome",
+          "Major": 60,
+          "Minor": 0,
+          "Patch": 0
+        },
+        "OS": {
+          "Id": "3bf4ff38-f33e-4ec6-8ad3-a661eb1fccca",
+          "Value": "Unknown",
+          "Family": "Unknown",
+          "Major": 0,
+          "Minor": 0,
+          "Patch": 0,
+          "PatchMinor": 0
+        }
+      },
+      {
+        "Id": "c987cd6d-798b-4d52-a8a5-ce3885402868",
+        "AuthenticationIdentityId": "00000000-0000-0000-0000-000000000000",
+        "Timestamp": "2017-08-30T11:28:01.7625069Z",
+        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+        "UserHostAddress": "92.60.203.205",
+        "AbsolutePath": "/Home/Index",
+        "Authority": "console-qa.trustev.com",
+        "DnsSafeHost": "console-qa.trustev.com",
+        "Host": "console-qa.trustev.com",
+        "HostNameType": "Dns",
+        "Scheme": "https",
+        "Status": 0,
+        "IPAddresses": [
+          {
+            "Id": "14673897-424c-4d03-b705-c929aeb9b8ed",
+            "ClientIp": "92.60.203.205",
+            "ClientIpXFF": "",
+            "RealClientIp": "92.60.203.205",
+            "IPInformation": null,
+            "NeuStarIPInformation": {
+              "Id": "05ea3423-b937-42d2-8f8d-208e33906fa5",
+              "start_ip_int": "1547488016",
+              "end_ip_int": "1547488207",
+              "StartIPInt": 1547488016,
+              "EndIPInt": 1547488207,
+              "Continent": "europe",
+              "Country": "ireland",
+              "CountryCode": "ie",
+              "CountryConfidence": 99,
+              "Region": "munster",
+              "State": "cork",
+              "StateCode": "",
+              "StateConfidence": 74,
+              "City": "bandon",
+              "CityConfidence": 50,
+              "PostalCode": "",
+              "AreaCode": "",
+              "Timezone": 0,
+              "Latitude": 51.75,
+              "Longitude": -8.74,
+              "DMA": "",
+              "MSA": "",
+              "ConnectionType": "tx",
+              "LineSpeed": "high",
+              "RoutingType": "fixed",
+              "ASN": 42090,
+              "SLD": "glenmarshellfish",
+              "TLD": "com",
+              "RegisteringOrg": "ptp links  cust & backhaul",
+              "Carrier": "rapid broadband ltd",
+              "HostingFacility": "false",
+              "ProxyLevel": "",
+              "ProxyType": "",
+              "ProxyLastDetected": "0001-01-01T00:00:00Z",
+              "AnonymizerStatus": ""
+            },
+            "IsNonDomestic": false
+          }
+        ],
+        "Browser": {
+          "Id": "8bff3532-8597-466e-80d3-2b09ee8ce6f8",
+          "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+          "Family": "Chrome",
+          "Major": 60,
+          "Minor": 0,
+          "Patch": 0
+        },
+        "OS": {
+          "Id": "19fdf17b-d93e-443e-ad5c-c5f5f4ba9da4",
+          "Value": "Unknown",
+          "Family": "Unknown",
+          "Major": 0,
+          "Minor": 0,
+          "Patch": 0,
+          "PatchMinor": 0
+        }
+      },
+      {
+        "Id": "61f39390-9f13-4d3d-8e20-4f1bb957ada9",
+        "AuthenticationIdentityId": "00000000-0000-0000-0000-000000000000",
+        "Timestamp": "2017-08-30T11:28:06.3072851Z",
+        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+        "UserHostAddress": "92.60.203.205",
+        "AbsolutePath": "/Configuration/IndexCascading",
+        "Authority": "console-qa.trustev.com",
+        "DnsSafeHost": "console-qa.trustev.com",
+        "Host": "console-qa.trustev.com",
+        "HostNameType": "Dns",
+        "Scheme": "https",
+        "Status": 0,
+        "IPAddresses": [
+          {
+            "Id": "678c8321-d51c-4fe0-9ccc-a2564bf4e3a9",
+            "ClientIp": "92.60.203.205",
+            "ClientIpXFF": "",
+            "RealClientIp": "92.60.203.205",
+            "IPInformation": null,
+            "NeuStarIPInformation": {
+              "Id": "05ea3423-b937-42d2-8f8d-208e33906fa5",
+              "start_ip_int": "1547488016",
+              "end_ip_int": "1547488207",
+              "StartIPInt": 1547488016,
+              "EndIPInt": 1547488207,
+              "Continent": "europe",
+              "Country": "ireland",
+              "CountryCode": "ie",
+              "CountryConfidence": 99,
+              "Region": "munster",
+              "State": "cork",
+              "StateCode": "",
+              "StateConfidence": 74,
+              "City": "bandon",
+              "CityConfidence": 50,
+              "PostalCode": "",
+              "AreaCode": "",
+              "Timezone": 0,
+              "Latitude": 51.75,
+              "Longitude": -8.74,
+              "DMA": "",
+              "MSA": "",
+              "ConnectionType": "tx",
+              "LineSpeed": "high",
+              "RoutingType": "fixed",
+              "ASN": 42090,
+              "SLD": "glenmarshellfish",
+              "TLD": "com",
+              "RegisteringOrg": "ptp links  cust & backhaul",
+              "Carrier": "rapid broadband ltd",
+              "HostingFacility": "false",
+              "ProxyLevel": "",
+              "ProxyType": "",
+              "ProxyLastDetected": "0001-01-01T00:00:00Z",
+              "AnonymizerStatus": ""
+            },
+            "IsNonDomestic": false
+          }
+        ],
+        "Browser": {
+          "Id": "cd167f6b-11f1-4330-849e-43a615e0b1ce",
+          "Value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+          "Family": "Chrome",
+          "Major": 60,
+          "Minor": 0,
+          "Patch": 0
+        },
+        "OS": {
+          "Id": "56f0c16d-818e-4051-9791-64776627a7e3",
+          "Value": "Unknown",
+          "Family": "Unknown",
+          "Major": 0,
+          "Minor": 0,
+          "Patch": 0,
+          "PatchMinor": 0
+        }
+      }
+    ],
+    "Locations": null,
+    "TrustevCookie": {
+      "Id": "608ea41e-9c6d-4d68-88ad-a25f91eaf794",
+      "AuthenticationId": "00000000-0000-0000-0000-000000000000",
+      "MerchantSiteId": "b1fd5e36-5b94-4cb5-b860-a31600a31f61",
+      "MerchantName": "Trustev",
+      "MerchantSiteName": "FancyTees",
+      "MerchantId": "21e58e3e-685e-4016-8b43-a31600a02f82",
+      "ResellerId": "528a1702-d3d7-4029-97a9-c1323c1dbc16",
+      "MerchantCountryISO3166": null,
+      "Timestamp": "2017-08-30T11:08:32.0156481Z",
+      "Salt": "OfIdag==",
+      "HashedValue": "roj5fIm5UAes8qh20dKhxK3OiClLWjymVI2J0miV12Y=",
+      "Enabled": true,
+      "Session": [
+        {
+          "Id": "00000000-0000-0000-0000-000000000000",
+          "SessionId": "13762d39-d56b-404d-af33-8c90175f0a28",
+          "MerchantSiteId": "b1fd5e36-5b94-4cb5-b860-a31600a31f61",
+          "AspSessionId": "22uyc2rkg1ppf4ene0abidhn",
+          "Detail": null
+        }
+      ]
+    },
+    "Cases": [
+      {
+        "Id": "16ec9c5d-5154-426d-81f9-daa456304bdb",
+        "CaseType": 0,
+        "CaseNumber": "c24e992a-c6d2-4f36-9b7e-6dbc4b52a8ae",
+        "SessionId": "13762d39-d56b-404d-af33-8c90175f0a28",
+        "Transaction": {
+          "Id": "802661e0-9d19-4142-8506-02de3e2b188a",
+          "SessionId": "00000000-0000-0000-0000-000000000000",
+          "Timestamp": "2017-08-30T11:08:45.5439953Z",
+          "TotalTransactionValue": 10,
+          "Currency": "USD",
+          "Addresses": [
+            {
+              "Id": "86ad414c-39bc-4285-b049-20f22c732b39",
+              "FirstName": "John",
+              "LastName": "Doe",
+              "Address1": "Address line 1",
+              "Address2": "Address line 2",
+              "Address3": "Address line 3",
+              "City": "Cork",
+              "State": "Cork",
+              "PostalCode": "Cork",
+              "Type": 1,
+              "CountryCode": "IE",
+              "Country": null,
+              "Timestamp": "0001-01-01T00:00:00Z",
+              "IsDefault": true
+            }
+          ],
+          "Items": [
+            {
+              "Id": "11c82b74-22f0-43d1-8a44-2dd262411d35",
+              "URL": null,
+              "ImageURL": null,
+              "Name": "Item 1",
+              "Quantity": 1,
+              "TotalBeforeTax": 0,
+              "TotalDiscount": 0,
+              "TotalTax": 0,
+              "ItemValue": 10.99
+            }
+          ],
+          "Emails": [
+            {
+              "Id": "d05dbc3f-bec5-4cf2-a4f0-8205cae9362a",
+              "EmailAddress": "johndoe@trustev.com",
+              "Timestamp": "2017-08-30T11:08:46.0475979Z",
+              "IsDefault": true,
+              "SourceType": 0,
+              "Source": null,
+              "TowerDataEAM": {
+                "eam": {
+                  "date_first_seen": "now",
+                  "month_last_open": null,
+                  "velocity": "0",
+                  "popularity": "0",
+                  "longevity": "0"
+                }
+              }
+            }
+          ],
+          "Status": [],
+          "PaymentDetail": null,
+          "DeviceTag": null
+        },
+        "Customer": {
+          "Id": "5f1d718f-0f0a-4b82-87b4-f5ebd8680a86",
+          "FirstName": "John",
+          "LastName": "Doe",
+          "Emails": [
+            {
+              "Id": "2fa4308d-034b-4e0f-8c96-f450200dff64",
+              "EmailAddress": "johndoe@trustev.com",
+              "Timestamp": "2017-08-30T11:08:46.0475979Z",
+              "IsDefault": true,
+              "SourceType": 0,
+              "Source": null,
+              "TowerDataEAM": {
+                "eam": {
+                  "date_first_seen": "now",
+                  "month_last_open": null,
+                  "velocity": "0",
+                  "popularity": "0",
+                  "longevity": "0"
+                }
+              }
+            }
+          ],
+          "IsPhoneLookUpEnabled": false,
+          "PhoneNumber": "353861628629",
+          "DateOfBirth": "1993-08-30T11:08:45.5439953Z",
+          "Addresses": [
+            {
+              "Id": "5b9bcadb-9146-4ffd-a162-1fc6bd199cc6",
+              "FirstName": "John",
+              "LastName": "Doe",
+              "Address1": "Address line 1",
+              "Address2": "Address line 2",
+              "Address3": "Address line 3",
+              "City": "Cork",
+              "State": "Cork",
+              "PostalCode": "Cork",
+              "Type": 2,
+              "CountryCode": "IE",
+              "Country": null,
+              "Timestamp": "0001-01-01T00:00:00Z",
+              "IsDefault": true
+            }
+          ],
+          "SocialAccounts": [],
+          "Identity": null,
+          "Settings": [],
+          "IsReturningCustomer": false,
+          "Transaction": null,
+          "AccountNumber": "123004",
+          "SocialSecurityNumber": "123-45-6789"
+        },
+        "Statuses": [
+          {
+            "Id": "a7d96bbb-8897-4b45-b8a6-ef858c651e13",
+            "Status": 8,
+            "Timestamp": "2017-08-30T11:08:45.5439953Z",
+            "Comment": "Initial Status",
+            "IsUpdated": false,
+            "IsMerchantAggregated": true
+          }
+        ],
+        "Payments": [
+          {
+            "Id": "156c945f-4b08-4ea7-805d-fd4c15082b5b",
+            "BINNumber": "411111",
+            "BINInformation": {
+              "Timestamp": "0001-01-01T00:00:00Z",
+              "BIN": "411111",
+              "Brand": "VISA",
+              "CountryISO3166_Code2": "US",
+              "CardType": "CREDIT",
+              "Bank": "JPMORGAN CHASE BANK, N.A.",
+              "CardCategory": null
+            },
+            "PaymentType": 1,
+            "Timestamp": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "Timestamp": "2017-08-30T11:08:45.5439953Z",
+        "MerchantTimestamp": "2017-08-30T11:08:45.5439953Z",
+        "DecisionSummary": {
+          "Id": "cc92541a-afb5-4b0d-a14a-2658b6216685",
+          "Version": 97,
+          "SessionId": "13762d39-d56b-404d-af33-8c90175f0a28",
+          "Timestamp": "2017-08-30T11:08:52.7240372Z",
+          "FailureThreshold": 199,
+          "FailurePercentage": 100,
+          "Result": 2,
+          "Score": 103,
+          "Confidence": 97,
+          "FactResults": [
+            {
+              "Name": "Trustev.Grains.Facts.Lists.IsBlacklisted",
+              "ResultType": "System.Boolean",
+              "Result": true,
+              "FactValue": "IP|BIN|FullEmailAddress|AccountNumber|PostCode|",
+              "FactWeighting": 50,
+              "FactWeightingSign": 0,
+              "FactGroupName": "",
+              "PositiveFactFraudRiskCategory": 5,
+              "NegativeFactFraudRiskCategory": 1,
+              "FactDisplayName": "IsBlacklisted",
+              "FactDescription": "IsBlacklisted Fact Description"
+            },
+            {
+              "Name": "Trustev.Grains.Facts.Lists.IsGreylisted",
+              "ResultType": "System.Boolean",
+              "Result": true,
+              "FactValue": "BIN|IP|PostCode|AccountNumber|FullEmailAddress|",
+              "FactWeighting": 50,
+              "FactWeightingSign": 0,
+              "FactGroupName": "",
+              "PositiveFactFraudRiskCategory": 5,
+              "NegativeFactFraudRiskCategory": 1,
+              "FactDisplayName": "IsGreylisted",
+              "FactDescription": "IsGreylisted Fact Description"
+            },
+            {
+              "Name": "Trustev.Grains.Facts.Customers.IsReturningCustomerPlatform",
+              "ResultType": "System.Boolean",
+              "Result": false,
+              "FactValue": "False",
+              "FactWeighting": 1,
+              "FactWeightingSign": 1,
+              "FactGroupName": "",
+              "PositiveFactFraudRiskCategory": 1,
+              "NegativeFactFraudRiskCategory": 0,
+              "FactDisplayName": "Returning Customer",
+              "FactDescription": "Customer verified as returning"
+            },
+            {
+              "Name": "Trustev.Grains.Facts.Session.IP.IsProxy",
+              "ResultType": "System.Boolean",
+              "Result": false,
+              "FactValue": "RequestDirectIP: null, RequestIP: 92.60.203.205,  NeuStar IsProxy: False",
+              "FactWeighting": 1,
+              "FactWeightingSign": 1,
+              "FactGroupName": "",
+              "PositiveFactFraudRiskCategory": 5,
+              "NegativeFactFraudRiskCategory": 1,
+              "FactDisplayName": "",
+              "FactDescription": ""
+            },
+            {
+              "Name": "Trustev.Grains.Facts.Session.IP.IsIPHostingFacility",
+              "ResultType": "System.Boolean",
+              "Result": false,
+              "FactValue": "IP Address 92.60.203.205, produced IsHosting value = false",
+              "FactWeighting": 1,
+              "FactWeightingSign": 1,
+              "FactGroupName": "",
+              "PositiveFactFraudRiskCategory": 1,
+              "NegativeFactFraudRiskCategory": 5,
+              "FactDisplayName": "Is Ip Hosting",
+              "FactDescription": "This is a description of the Is proxy Transparent fact"
+            }
+          ],
+          "GetDecisionCalled": true
+        },
+        "IsMerchantAggregated": true,
+        "LocationConsentId": "TestLocationConsentId1504091325544"
+      }
+    ],
+    "IsIpAggregated": true
+  },
+  "@grains_metadata": {
+    "grainId": "404dd56b13762d39280a5f17908c33af03000000652e3695",
+    "grainType": "SessionGrain",
+    "timestamp": "2017-08-30T11:44:07.5557235Z",
+    "version": 1,
+    "timestampInTicks": 636396902475557200
+  }
+}

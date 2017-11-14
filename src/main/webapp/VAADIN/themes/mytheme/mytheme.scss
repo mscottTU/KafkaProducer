@@ -1,0 +1,18 @@
+$mat-background-color: #303030; // #fafafa for a light and #303030 for a dark theme
+$v-focus-color: #00BCD4;
+
+@import "../material/material.scss";
+
+@mixin mytheme {
+  @include material;
+  // Insert your own theme rules here
+  textarea.v-textarea {
+    font-family: 'Lucida Console', Monaco, monospace;
+    background-color: #595959 !important;
+  }
+
+  .light_bg{
+    background-color: #4b4b4b !important;
+  }
+
+}
