@@ -12,11 +12,13 @@ Workflow
 IMPORTANT: provide valid properties in the kafka.properties file before deploying.
 
 Example properties:
+```
   kafka.brokers=http://<url1>:<port1>,http://<url2>:<port2>
   kafka.topics=topic1,topic2,topic3
   document.type=doctype1,doctype2,doctype3
   user.name=user1
   user.pwd=changeme
+```
 
 To compile the entire project, run "mvn install".
 
